@@ -5,4 +5,6 @@
 
 Intent detection for intelligent tutoring systems.
 
-> Ella Cutler, Zachary Levonian, S. Thomas Christie. Detecting Student Intent for Chat-Based Intelligent Tutoring Systems. 2025. arXiv.
+Cite this work:
+
+> Ella Cutler, Zachary Levonian, S. Thomas Christie. [Detecting Student Intent for Chat-Based Intelligent Tutoring Systems](https://arxiv.org/abs/2502.15096). 2025. arXiv:2502.15096 [cs.HC]. https://arxiv.org/abs/2502.15096
